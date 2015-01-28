@@ -5,6 +5,9 @@ distribute this software, either in source code form or as a compiled
 binary, for any purpose, commercial or non-commercial, and by any
 means.
 
+The author kindly asks that any bugs, suggestions or improvements be
+reported back to the [project].
+
 In jurisdictions that recognize copyright laws, the author or authors
 of this software dedicate any and all copyright interest in the
 software to the public domain. We make this dedication for the benefit
@@ -23,3 +26,4 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <http://unlicense.org>
 
+[project]: https://github.com/ntessore/ini
