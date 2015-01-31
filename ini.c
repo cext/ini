@@ -1,10 +1,10 @@
-//
-// this is ini v1.0.0
+// 
+// this is ini v1.0.1
 // 
 // project home: https://github.com/ntessore/ini
 // 
 // ini is in the public domain
-//
+// 
 
 #include <stdlib.h>
 #include <stdio.h>

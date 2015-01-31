@@ -6,7 +6,7 @@ binary, for any purpose, commercial or non-commercial, and by any
 means.
 
 The author kindly asks that any bugs, suggestions or improvements be
-reported back to the [project].
+reported back to the project at <https://github.com/ntessore/ini>.
 
 In jurisdictions that recognize copyright laws, the author or authors
 of this software dedicate any and all copyright interest in the
@@ -25,5 +25,3 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <http://unlicense.org>
-
-[project]: https://github.com/ntessore/ini
